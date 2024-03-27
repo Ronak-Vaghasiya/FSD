@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20%;
+}
+
+.btn{
+    background:rgb(66, 49, 93);
+    color: white;
+}
